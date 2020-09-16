@@ -28,3 +28,17 @@ pygame : for playing the audio
 cv2 : for reading and writing image
 
 tkinter : for frontend layout
+
+#### The project includes the following features:
+
+1. Uploading an image containing text from the system , extracting its data using pytesseract engine and generating its summary. 
+
+2. Getting data from any given link using the concept of Web Scraping with beautiful soup and generating its summary.
+
+3. We can also upload any file from our system and generate its summary.
+
+4. You can also listen the summary by clicking on 'Listen' button. For this I have used libraries like pygame and gtts.
+
+5. Some basic operations like reset data , clear data , saving data are also added to the project.
+
+6. For GUI , Tkinter is used.
