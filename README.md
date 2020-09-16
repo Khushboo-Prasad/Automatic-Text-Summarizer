@@ -42,3 +42,6 @@ tkinter : for frontend layout
 5. Some basic operations like reset data , clear data , saving data are also added to the project.
 
 6. For GUI , Tkinter is used.
+
+![Screenshot (293)](https://user-images.githubusercontent.com/54080068/93332668-cc27a600-f83f-11ea-9f38-2d5452a74e53.png)
+
