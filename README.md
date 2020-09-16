@@ -43,9 +43,9 @@ tkinter : for frontend layout
 
 6. For GUI , Tkinter is used.
 
- 
+                               ![Screenshot (293)](https://user-images.githubusercontent.com/54080068/93333961-bca95c80-f841-11ea-9b76-c9bccf033059.png)
 
-![Screenshot (297)](https://user-images.githubusercontent.com/54080068/93333034-5d971800-f840-11ea-886b-aa1829715000.png)
+                               ![Screenshot (297)](https://user-images.githubusercontent.com/54080068/93333034-5d971800-f840-11ea-886b-aa1829715000.png)
 
-![Screenshot (294)](https://user-images.githubusercontent.com/54080068/93333809-823fbf80-f841-11ea-8488-def66c84602c.png)
+                               ![Screenshot (294)](https://user-images.githubusercontent.com/54080068/93333809-823fbf80-f841-11ea-8488-def66c84602c.png)
 
