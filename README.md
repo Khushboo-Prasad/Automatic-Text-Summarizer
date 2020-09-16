@@ -14,10 +14,17 @@ In this project , we are going to use Extractive method.
 ***Prerequisites*** : Here is the list of all the libraries that needed to be installed before proceeding further.
 
 bs4 : for parsing the webpages
+
 nltk : for performing Natural Language Processing Tasks.
+
 pillow(PIL) : for image processing
+
 pytesseract : for optical character recognition
+
 gtts : for text to audio generation
+
 pygame : for playing the audio
+
 cv2 : for reading and writing image
+
 tkinter : for frontend layout
